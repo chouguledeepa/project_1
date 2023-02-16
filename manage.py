@@ -20,3 +20,7 @@ def main():
 
 if __name__ == '__main__':
     main()
+# if __name__ == "__main__":
+#     main()
+#     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "project.settings")
+# # ... other code ...
